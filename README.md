@@ -6,7 +6,7 @@ Full lifecycle — 0-1 launches, growth, geographic expansion and mature platfor
 
 Deep domain knowledge in Fintech (Fund and Portfolio Management, Portfolio Analytics, Wealth Platforms) and Martech (Customer Promotions and Loyalty).
 
-Currently on a self-directed sabbatical training in AI-native product management and development, in three phases:
+Currently on a self-directed sabbatical training in AI-native Product Management and Development, in three phases:
 
 1. **Theory — complete.** A month of structured training in AI tooling and LLM fundamentals, including the Anthropic Academy courses.
 2. **Practice — in progress.** Applying it by building an application end to end, solo. See The Gaffer below.
@@ -16,7 +16,11 @@ Currently on a self-directed sabbatical training in AI-native product management
 
 [github.com/stephenpollock79/fpl-advisor](https://github.com/stephenpollock79/fpl-advisor#the-gaffer)
 
-A personal decision-support app for Fantasy Premier League. Problem brief → clickable prototype and design system → PRD and architecture decision records → sliced tickets → a deployed app. Built solo in three weeks.
+A pet project to learn applied AI Enabled Product Management and Development. Built Solo in 3 Weeks. 
+
+A personal decision-support app for Fantasy Premier League. A deployed web app with authentication and a database behind it, not a prototype. 
+
+Process - Problem brief → clickable prototype and design system → PRD and architecture decision records → sliced tickets → a deployed app. 
 
 ## Elsewhere
 
