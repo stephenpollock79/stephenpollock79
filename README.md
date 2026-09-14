@@ -14,7 +14,7 @@ Currently on a self-directed sabbatical training in AI-native product management
 
 ## The Gaffer
 
-[github.com/stephenpollock79/fpl-advisor](https://github.com/stephenpollock79/fpl-advisor)
+[github.com/stephenpollock79/fpl-advisor](https://github.com/stephenpollock79/fpl-advisor#the-gaffer)
 
 A personal decision-support app for Fantasy Premier League. Problem brief → clickable prototype and design system → PRD and architecture decision records → sliced tickets → a deployed app. Built solo in three weeks.
 
