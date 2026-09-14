@@ -1,16 +1,23 @@
-## Hi there 👋
+# Stephen Pollock
 
-<!--
-**stephenpollock79/stephenpollock79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lead Product Manager / Director of Product. 10+ years building software products, with a prior career in financial services. UK-based.
 
-Here are some ideas to get you started:
+Full lifecycle — 0-1 launches, growth, geographic expansion and mature platforms — across B2B, B2C and internal products. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Deep domain knowledge in fintech (fund and portfolio management, portfolio analytics, wealth platforms) and Martech (Customer Promotions and Loyalty).
+
+Currently on a self-directed sabbatical training in AI-native product management and development, in three phases:
+
+1. **Theory — complete.** A month of structured training in AI tooling and LLM fundamentals, including the Anthropic Academy courses.
+2. **Practice — in progress.** Applying it by building an application end to end, solo. See The Gaffer below.
+3. **Codification — next.** Turning it into a working knowledge base: rules, skills, guidelines and ways of working for AI-enabled product management.
+
+## The Gaffer
+
+[github.com/stephenpollock79/fpl-advisor](https://github.com/stephenpollock79/fpl-advisor)
+
+A personal decision-support app for Fantasy Premier League. Problem brief → clickable prototype and design system → PRD and architecture decision records → sliced tickets → a deployed app. Built solo in three weeks.
+
+## Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/stephen-pollock-1a67a187)
