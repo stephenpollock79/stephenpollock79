@@ -4,7 +4,7 @@ Lead Product Manager / Director of Product. 10+ years building software products
 
 Full lifecycle — 0-1 launches, growth, geographic expansion and mature platforms — across B2B, B2C and internal products. 
 
-Deep domain knowledge in fintech (fund and portfolio management, portfolio analytics, wealth platforms) and Martech (Customer Promotions and Loyalty).
+Deep domain knowledge in Fintech (Fund and Portfolio Management, Portfolio Analytics, Wealth Platforms) and Martech (Customer Promotions and Loyalty).
 
 Currently on a self-directed sabbatical training in AI-native product management and development, in three phases:
 
