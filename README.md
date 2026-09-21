@@ -63,7 +63,7 @@ What follows is my experience from a two-month training sabbatical, as at Septem
 
 | Mode | Who does the work | Who reviews it |
 |:---|:---|:---|
-| **1 · Human only** | Human | Another human |
+| **1 · Human only** | Human | Another human and helps iterate |
 | **2 · AI validation** | Human | AI reviews and helps iterate |
 | **3 · Human validation** | AI | Human reviews and helps iterate |
 | **4 · Autonomous AI** | AI | AI reviews and iterates on its own |
