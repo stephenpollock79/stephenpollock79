@@ -45,7 +45,7 @@ Currently on a self-directed sabbatical training in AI-native Product Management
 
 [github.com/stephenpollock79/fpl-advisor](https://github.com/stephenpollock79/fpl-advisor#the-gaffer)
 
-A pet project to learn applied AI Enabled Product Management and Development. Built Solo in 3 Weeks. 
+A pet project to learn applied AI Enabled Product Management and Development. Built Solo in under 3 Weeks. 
 
 A personal decision-support app for Fantasy Premier League. A deployed web app with authentication and a database behind it, not a prototype. 
 
