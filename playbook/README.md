@@ -9,6 +9,6 @@ How I work as an AI-native product manager: the rules, skills and practices I us
 | [Project workflow](project-workflow.md) | The end-to-end process behind The Gaffer, phase by phase |
 | [Second brain](second-brain.md) | Keeping AI useful across months of work with a notes vault as its memory |
 | [Skills](skills/README.md) | The reusable AI skills I built, each ready to copy · *coming soon* |
-| [Training resources](training-resources.md) | The people, channels and newsletters I recommend · *coming soon* |
+| [Training resources](training-resources.md) | The people, channels, newsletters and courses I learned from |
 
 [← Back to profile](https://github.com/stephenpollock79)
