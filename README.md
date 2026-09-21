@@ -41,7 +41,7 @@ Currently on a self-directed sabbatical training in AI-native Product Management
 2. **Practice — complete.** Applying it by building an application end to end, solo. See Personal Project below.
 3. **Codification — in progress.** Turning it into a working knowledge base: rules, skills, guidelines and ways of working for AI-enabled product management.
 
-You can find more about the Theory Training and my recommeded resources here - (Link to be added)
+You can find more about the Theory Training and my recommeded resources in [Training resources](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/training-resources.md).
 
 # Personal Project - The Gaffer
 
@@ -68,13 +68,15 @@ What follows is my experience from a two-month training sabbatical, as at Septem
 | **3 · Human validation** | AI | Human reviews and helps iterate |
 | **4 · Autonomous AI** | AI | AI reviews and iterates on its own |
 
-The right mode depends on the stakes. The more a mistake costs, or the longer it would go unnoticed, the more a human belongs in the loop. Over time, more tasks will move down this list. In [My project workflow](LINK) I show which mode I used in each phase of the build, what worked, what didn't and what I'd change.
+The right mode depends on the stakes. The more a mistake costs, or the longer it would go unnoticed, the more a human belongs in the loop. Over time, more tasks will move down this list. In [My project workflow](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/project-workflow.md) I show which mode I used in each phase of the build, what worked, what didn't and what I'd change.
 
 ### Go deeper
 
-- **[Best practices](LINK)**: what I recommend, what I'd avoid, and what each lesson cost me
-- **[Resources](LINK)**: How I optimized my collaboration with AI - The Rules and Skills I use with AI assistants, published in full. 
-- **[My project workflow](LINK)**: the end-to-end process behind The Gaffer, phase by phase
+- **[Best practices](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/best-practices.md)**: what I recommend, what I'd avoid, and what each lesson cost me
+- **[AI rules](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/ai-rules.md)** and **[Skills](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/skills/README.md)**: How I optimized my collaboration with AI - The Rules and Skills I use with AI assistants, published in full. 
+- **[My project workflow](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/project-workflow.md)**: the end-to-end process behind The Gaffer, phase by phase
+- **[Second brain](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/second-brain.md)**: keeping AI useful across months of work, with a notes vault as its memory
+- **[The full playbook](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/README.md)**: everything above in one place
 
 I hope these help you shape your own way of working in a fast-changing, AI-enabled world.
 
