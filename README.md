@@ -41,6 +41,8 @@ Currently on a self-directed sabbatical training in AI-native Product Management
 2. **Practice — complete.** Applying it by building an application end to end, solo. See Personal Project below.
 3. **Codification — in progress.** Turning it into a working knowledge base: rules, skills, guidelines and ways of working for AI-enabled product management.
 
+You can find more about the Theory Training and my recommeded resources here - (Link to be added)
+
 # Personal Project - The Gaffer
 
 [github.com/stephenpollock79/fpl-advisor](https://github.com/stephenpollock79/fpl-advisor#the-gaffer)
@@ -50,6 +52,31 @@ A pet project to learn applied AI Enabled Product Management and Development. Bu
 A personal decision-support app for Fantasy Premier League. A deployed web app with authentication and a database behind it, not a prototype. 
 
 Process - Problem brief → clickable prototype and design system → PRD and architecture decision records → sliced tickets → a deployed app. 
+
+# AI-Enabled Product Management
+
+Despite what you may read online, there is no one-size-fits-all best practice for AI-enabled product management. How we work has always depended on context: sector, product maturity, whether it's B2B, B2C or an internal platform, regulatory constraints and more. Add AI and its rate of change, and it becomes essential for every product manager to learn, experiment and iterate their way to the approach that works for them.
+
+What follows is my experience from a two-month training sabbatical, as at September 2026. It covers both sides: using AI to do the work of product management, and building AI into a product.
+
+### Four modes of working with AI
+
+| Mode | Who does the work | Who reviews it |
+|:---|:---|:---|
+| **1 · Human only** | Human | Another human |
+| **2 · AI validation** | Human | AI reviews and helps iterate |
+| **3 · Human validation** | AI | Human reviews and helps iterate |
+| **4 · Autonomous AI** | AI | AI reviews and iterates on its own |
+
+The right mode depends on the stakes. The more a mistake costs, or the longer it would go unnoticed, the more a human belongs in the loop. Over time, more tasks will move down this list. In [My project workflow](LINK) I show which mode I used in each phase of the build, what worked, what didn't and what I'd change.
+
+### Go deeper
+
+- **[Best practices](LINK)**: what I recommend, what I'd avoid, and what each lesson cost me
+- **[My AI rules](LINK)**: the working rules I use with AI assistants, published in full
+- **[My project workflow](LINK)**: the end-to-end process behind The Gaffer, phase by phase
+
+I hope these help you shape your own way of working in a fast-changing, AI-enabled world.
 
 ## Elsewhere
 
