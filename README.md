@@ -1,3 +1,12 @@
+"There's this concept of the jagged frontier of AI, where some things it can do amazingly well, and other things it's laughably terrible at. But what those things are isn't obvious. You have to basically just work with this stuff yourself and build up an intuition of what it does." 
+Dell'Acqua, McFowland III, Mollick et al., Navigating the Jagged Technological Frontier, Harvard Business School Working Paper
+
+> - **97%** of PMs report improved personal productivity from AI. Only **64%** report improved product outcomes (faster time to market, more revenue). 
+> - **85%** use their own expertise to validate AI output before trusting it; **76%** still weight their own judgement over AI's more than the reverse.
+> - **64%** say PM skills are *more* essential in the age of AI. Only **1%** say less essential.
+Product Focus, *2026 Survey of the Product Management Profession* (productfocus.com), 2026.
+
+
 # Stephen Pollock
 
 Lead Product Manager / Director of Product. 10+ years building software products, with a prior career in financial services. UK-based.
