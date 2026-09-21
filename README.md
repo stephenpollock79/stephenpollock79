@@ -1,18 +1,24 @@
-> "There's this concept of the jagged frontier of AI, where some things it can do amazingly well, and other things it's laughably terrible at. But what those things are isn't obvious. You have to basically just work with this stuff yourself and build up an intuition of what it does."
->
-> — Ethan Mollick, on *Navigating the Jagged Technological Frontier* (Dell'Acqua, McFowland III, Mollick et al., Harvard Business School Working Paper)
+AI's abilities are uneven in ways you can't predict from the outside. In a Harvard Business School study of 758 BCG consultants, those using AI on tasks within its capabilities completed 12% more tasks, 25% faster, at 40% higher quality. On a task just beyond them, they were 19 percentage points *less* likely to get the right answer than colleagues working without it. The researchers called this the **jagged technological frontier**, and the only way to find where it runs is to work with the tools yourself.
 
-### What PMs are saying
+<sub>Dell'Acqua, McFowland III, Mollick et al., [*Navigating the Jagged Technological Frontier*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4573321), HBS Working Paper 24-013, September 2023.</sub>
 
-| | Finding |
+Product managers see the same gap:
+
+| | |
 |---:|:---|
-| **97%** | report improved **personal productivity** from AI |
-| **64%** | report improved **product outcomes** (faster time to market, more revenue) |
-| **85%** | use their own expertise to validate AI output before trusting it |
-| **76%** | still weight their own judgement over AI's, more than the reverse |
+| **97%** | say AI has improved their **personal productivity** |
+| **64%** | say it has improved **product outcomes** |
 | **64%** | say PM skills are ***more*** essential in the age of AI (only **1%** say less) |
 
-<sub>Source: Product Focus, [*2026 Survey of the Product Management Profession*](https://productfocus.com), 2026.</sub>
+<sub>Product Focus, [*2026 Survey of the Product Management Profession*](https://www.productfocus.com/product-management-resources/profession-survey/), March 2026.</sub>
+
+Personal productivity is the easy win. The hard part is turning it into better products.
+
+### What I set out to learn
+
+How to be an AI-native product manager: using AI across the whole product lifecycle, from problem framing and discovery through specs, prioritisation and delivery, not just to write code. That meant learning where AI can be trusted and where it needs checking, and what rules, context and ways of working keep it reliable over months rather than for a single conversation.
+
+I spent weeks on structured, hands-on training first. Then I tested it on a real product: solo, eleven working days, from problem brief to deployed app, with no engineering background. Here is what I learned.
 
 
 # Stephen Pollock
