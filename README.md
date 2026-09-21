@@ -1,6 +1,8 @@
-AI's abilities are uneven in ways you can't predict from the outside. In a Harvard Business School study of 758 BCG consultants, those using AI on tasks within its capabilities completed 12% more tasks, 25% faster, at 40% higher quality. On a task just beyond them, they were 19 percentage points *less* likely to get the right answer than colleagues working without it. The researchers called this the **jagged technological frontier**, and the only way to find where it runs is to work with the tools yourself.
-
-<sub>Dell'Acqua, McFowland III, Mollick et al., [*Navigating the Jagged Technological Frontier*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4573321), HBS Working Paper 24-013, September 2023.</sub>
+> "AI can generate PRDs, interfaces, prototypes, and code, but it does not replace the judgment required to determine which problems are worth solving or which solutions are valuable, usable, feasible, and viable."
+>
+> "The biggest risk is outsourcing judgment to the tool rather than using it to improve thinking."
+>
+> — Silicon Valley Product Group, [*Product in the AI Era: AI Resource Guide*](https://www.svpg.com/ai-resource-guide/), 2026
 
 Product managers see the same gap:
 
