@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 640" width="1120" height="640" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#5b6472"/></marker><marker id="lg" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#1e6b3a"/></marker></defs>
+<rect width="1120" height="640" rx="18" fill="#ffffff"/><rect x="0.5" y="0.5" width="1119" height="639" rx="18" fill="none" stroke="#e3e6ea"/>
+<text x="40" y="46" font-size="22" font-weight="700" fill="#1f2328">How I took The Gaffer from idea to deployed app</text>
+<text x="40" y="70" font-size="14" fill="#5b6472">Seven steps once, in order. Then a loop per slice of work. Then one validation pass at the end.</text>
+<rect x="40" y="105" width="128" height="64" rx="12" fill="#f3f6fb" stroke="#9fb3d1"/>
+<text x="104.0" y="133" font-size="14" font-weight="600" fill="#1d3b66" text-anchor="middle">Strategy &amp;</text>
+<text x="104.0" y="151" font-size="14" font-weight="600" fill="#1d3b66" text-anchor="middle">objectives</text>
+<line x1="170" y1="137.0" x2="188" y2="137.0" stroke="#5b6472" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="190" y="105" width="128" height="64" rx="12" fill="#f3f6fb" stroke="#9fb3d1"/>
+<text x="254.0" y="142" font-size="14" font-weight="600" fill="#1d3b66" text-anchor="middle">Ideation</text>
+<line x1="320" y1="137.0" x2="338" y2="137.0" stroke="#5b6472" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="340" y="105" width="128" height="64" rx="12" fill="#f3f6fb" stroke="#9fb3d1"/>
+<text x="404.0" y="142" font-size="14" font-weight="600" fill="#1d3b66" text-anchor="middle">Discovery</text>
+<line x1="470" y1="137.0" x2="488" y2="137.0" stroke="#5b6472" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="490" y="105" width="128" height="64" rx="12" fill="#f3f6fb" stroke="#9fb3d1"/>
+<text x="554.0" y="142" font-size="14" font-weight="600" fill="#1d3b66" text-anchor="middle">Design</text>
+<line x1="620" y1="137.0" x2="638" y2="137.0" stroke="#5b6472" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="640" y="105" width="128" height="64" rx="12" fill="#f3f6fb" stroke="#9fb3d1"/>
+<text x="704.0" y="142" font-size="14" font-weight="600" fill="#1d3b66" text-anchor="middle">Shaping</text>
+<line x1="770" y1="137.0" x2="788" y2="137.0" stroke="#5b6472" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="790" y="105" width="128" height="64" rx="12" fill="#f3f6fb" stroke="#9fb3d1"/>
+<text x="854.0" y="142" font-size="14" font-weight="600" fill="#1d3b66" text-anchor="middle">Tech design</text>
+<line x1="920" y1="137.0" x2="938" y2="137.0" stroke="#5b6472" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="940" y="105" width="128" height="64" rx="12" fill="#f3f6fb" stroke="#9fb3d1"/>
+<text x="1004.0" y="142" font-size="14" font-weight="600" fill="#1d3b66" text-anchor="middle">Planning</text>
+<circle cx="560" cy="410" r="182" fill="#eef8f1" stroke="#86c59a" stroke-dasharray="6 5"/>
+<text x="560" y="404" font-size="15" font-weight="700" fill="#1e6b3a" text-anchor="middle">Repeat per slice</text>
+<text x="560" y="426" font-size="13" fill="#1e6b3a" text-anchor="middle">12 times</text>
+<path d="M515.0,298.7 A120,120 0 0 0 448.7,365.0" fill="none" stroke="#1e6b3a" stroke-width="2.5" marker-end="url(#lg)"/>
+<path d="M448.7,455.0 A120,120 0 0 0 515.0,521.3" fill="none" stroke="#1e6b3a" stroke-width="2.5" marker-end="url(#lg)"/>
+<path d="M605.0,521.3 A120,120 0 0 0 671.3,455.0" fill="none" stroke="#1e6b3a" stroke-width="2.5" marker-end="url(#lg)"/>
+<path d="M671.3,365.0 A120,120 0 0 0 605.0,298.7" fill="none" stroke="#1e6b3a" stroke-width="2.5" marker-end="url(#lg)"/>
+<rect x="508.0" y="269.0" width="104" height="42" rx="21" fill="#ffffff" stroke="#1e6b3a" stroke-width="1.5"/>
+<text x="560.0" y="295.0" font-size="15" font-weight="700" fill="#1e6b3a" text-anchor="middle">Spec</text>
+<rect x="388.0" y="389.0" width="104" height="42" rx="21" fill="#ffffff" stroke="#1e6b3a" stroke-width="1.5"/>
+<text x="440.0" y="415.0" font-size="15" font-weight="700" fill="#1e6b3a" text-anchor="middle">Build</text>
+<rect x="508.0" y="509.0" width="104" height="42" rx="21" fill="#ffffff" stroke="#1e6b3a" stroke-width="1.5"/>
+<text x="560.0" y="535.0" font-size="15" font-weight="700" fill="#1e6b3a" text-anchor="middle">Test</text>
+<rect x="628.0" y="389.0" width="104" height="42" rx="21" fill="#ffffff" stroke="#1e6b3a" stroke-width="1.5"/>
+<text x="680.0" y="415.0" font-size="15" font-weight="700" fill="#1e6b3a" text-anchor="middle">Review</text>
+<path d="M1004.0,171 L1004.0,229 L560.0,229 L560.0,266.0" fill="none" stroke="#5b6472" stroke-width="2" marker-end="url(#ar)"/>
+<text x="782.0" y="221" font-size="12" fill="#8c95a1" text-anchor="middle">plan split into 12 slices</text>
+<line x1="734.0" y1="410.0" x2="856" y2="410.0" stroke="#5b6472" stroke-width="2" marker-end="url(#ar)"/>
+<text x="797.0" y="400.0" font-size="12" fill="#8c95a1" text-anchor="middle">all slices done</text>
+<rect x="860" y="360.0" width="220" height="100" rx="12" fill="#fff4e8" stroke="#f0b27a"/>
+<text x="970" y="390.0" font-size="16" font-weight="700" fill="#8a4b12" text-anchor="middle">Validate</text>
+<text x="970" y="414.0" font-size="13" fill="#1f2328" text-anchor="middle">End-to-end testing</text>
+<text x="970" y="432.0" font-size="13" fill="#1f2328" text-anchor="middle">Security and polish pass</text>
+<text x="970" y="450.0" font-size="13" fill="#1f2328" text-anchor="middle">Retro</text>
+<text x="560" y="620" font-size="12" fill="#8c95a1" text-anchor="middle">Each review feeds the next slice's spec, so every loop starts a little better than the last</text>
+</svg>
