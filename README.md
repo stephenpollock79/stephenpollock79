@@ -41,8 +41,6 @@ Currently on a self-directed sabbatical training in AI-native Product Management
 2. **Practice — complete.** Applying it by building an application end to end, solo. See Personal Project below.
 3. **Codification — in progress.** Turning it into a working knowledge base: rules, skills, guidelines and ways of working for AI-enabled product management.
 
-You can find more about the Theory Training and my recommeded resources in [Training resources](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/training-resources.md).
-
 # Personal Project - The Gaffer
 
 A personal decision-support app for Fantasy Premier League, built solo in under three weeks, from problem brief to a deployed web app with authentication and a database. Not a prototype. I directed the build rather than hand-writing the code.
@@ -81,6 +79,7 @@ The right mode depends on the stakes. The more a mistake costs, or the longer it
 - **[AI rules](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/ai-rules.md)** and **[Skills](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/skills/README.md)**: How I optimized my collaboration with AI - The Rules and Skills I use with AI assistants, published in full. 
 - **[My project workflow](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/project-workflow.md)**: the end-to-end process behind The Gaffer, phase by phase
 - **[Second brain](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/second-brain.md)**: keeping AI useful across months of work, with a notes vault as its memory
+- **[Training resources](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/training-resources.md)**: the podcasts, newsletters, channels and courses I learned from
 - **[The full playbook](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/README.md)**: everything above in one place
 
 I hope these help you shape your own way of working in a fast-changing, AI-enabled world.
