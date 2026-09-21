@@ -73,7 +73,7 @@ The right mode depends on the stakes. The more a mistake costs, or the longer it
 ### Go deeper
 
 - **[Best practices](LINK)**: what I recommend, what I'd avoid, and what each lesson cost me
-- **[My AI rules](LINK)**: the working rules I use with AI assistants, published in full
+- **[Resources](LINK)**: How I optimized my collaboration with AI - The Rules and Skills I use with AI assistants, published in full. 
 - **[My project workflow](LINK)**: the end-to-end process behind The Gaffer, phase by phase
 
 I hope these help you shape your own way of working in a fast-changing, AI-enabled world.
