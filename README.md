@@ -45,13 +45,18 @@ You can find more about the Theory Training and my recommeded resources in [Trai
 
 # Personal Project - The Gaffer
 
-[github.com/stephenpollock79/fpl-advisor](https://github.com/stephenpollock79/fpl-advisor#the-gaffer)
+A personal decision-support app for Fantasy Premier League, built solo in under three weeks, from problem brief to a deployed web app with authentication and a database. Not a prototype. I directed the build rather than hand-writing the code.
 
-A pet project to learn applied AI Enabled Product Management and Development. Built Solo in under 3 Weeks. 
+**[Watch the demo and read more →](https://github.com/stephenpollock79/fpl-advisor#the-gaffer)**
 
-A personal decision-support app for Fantasy Premier League. A deployed web app with authentication and a database behind it, not a prototype. 
+| | |
+|---|---|
+| **Process** | Problem brief → clickable prototype and design system → PRD and architecture decision records → sliced tickets → deployed app |
+| **Scale** | 11-screen clickable prototype in about two days · 240 acceptance criteria · 12 build slices, each reviewed by a fresh AI session before it was called done |
+| **Tools** | Claude (Code, Cowork, Design) · Obsidian · Linear · GitHub · Railway · Supabase |
+| **Cost** | About $30 for a month of hosting, database and tracker, plus a Claude subscription. Under $3 of AI usage across the whole build |
 
-Process - Problem brief → clickable prototype and design system → PRD and architecture decision records → sliced tickets → a deployed app. 
+How each phase worked, which mode of working with AI I used, and what I'd change: **[My project workflow](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/project-workflow.md)**.
 
 # AI-Enabled Product Management
 
