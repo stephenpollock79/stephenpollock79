@@ -20,7 +20,7 @@ Personal productivity is the easy win. Turning it into better products still tak
 
 ### What I set out to learn
 
-How to be an AI-native product manager: using AI across the whole product lifecycle, from problem framing, discovery and design through speccing, build and Testing. That meant learning where AI can be trusted and where it needs checking, and what rules, context and ways of working keep it reliable.
+How to be an AI-native product manager: using AI across the whole product lifecycle, from problem framing, discovery and design through speccing, build and testing. That meant learning where AI can be trusted and where it needs checking, and what rules, context and ways of working keep it reliable.
 
 I spent weeks on structured, hands-on training first. Then I tested it on a real product: solo, from problem brief to deployed app, with no engineering background. Here is what I learned.
 
@@ -66,7 +66,7 @@ What follows is my experience from a two-month training sabbatical, as at Septem
 
 | Mode | Who does the work | Who reviews it |
 |:---|:---|:---|
-| **1 · Human only** | Human | Another human and helps iterate |
+| **1 · Human only** | Human | Another human reviews and helps iterate |
 | **2 · AI validation** | Human | AI reviews and helps iterate |
 | **3 · Human validation** | AI | Human reviews and helps iterate |
 | **4 · Autonomous AI** | AI | AI reviews and iterates on its own |
@@ -75,7 +75,7 @@ The right mode depends on the stakes. The more a mistake costs, or the longer it
 
 ### Go deeper
 
-- **[Best practices](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/best-practices.md)**: what I recommend, what I'd avoid, and what each lesson cost me
+- **[Best practices](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/best-practices.md)**: what I'd recommend and what I'd avoid, learned by doing
 - **[AI rules](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/ai-rules.md)** and **[Skills](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/skills/README.md)**: How I optimized my collaboration with AI - The Rules and Skills I use with AI assistants, published in full. 
 - **[My project workflow](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/project-workflow.md)**: the end-to-end process behind The Gaffer, phase by phase
 - **[Second brain](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/second-brain.md)**: keeping AI useful across months of work, with a notes vault as its memory
