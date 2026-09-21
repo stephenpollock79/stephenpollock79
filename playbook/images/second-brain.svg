@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 470" width="960" height="470" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif">
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#5b6472"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="960" height="470" rx="18" fill="#ffffff"/>
+  <rect x="0.5" y="0.5" width="959" height="469" rx="18" fill="none" stroke="#e3e6ea"/>
+
+  <text x="40" y="48" font-size="22" font-weight="700" fill="#1f2328">A second brain for you and your AI</text>
+  <text x="40" y="74" font-size="14" fill="#5b6472">You choose what goes in and ask the questions. The AI does the filing, summarising and linking.</text>
+
+  <rect x="40" y="120" width="180" height="250" rx="14" fill="#fff4e8" stroke="#f0b27a"/>
+  <text x="130" y="152" font-size="17" font-weight="700" fill="#8a4b12" text-anchor="middle">You</text>
+  <text x="130" y="190" font-size="14" fill="#1f2328" text-anchor="middle">Capture good sources</text>
+  <text x="130" y="212" font-size="12.5" fill="#5b6472" text-anchor="middle">articles, videos, notes</text>
+  <text x="130" y="258" font-size="14" fill="#1f2328" text-anchor="middle">Keep a daily journal</text>
+  <text x="130" y="306" font-size="14" fill="#1f2328" text-anchor="middle">Ask questions</text>
+  <text x="130" y="328" font-size="12.5" fill="#5b6472" text-anchor="middle">and make decisions</text>
+
+  <rect x="290" y="100" width="420" height="300" rx="14" fill="#f3f6fb" stroke="#9fb3d1"/>
+  <text x="500" y="130" font-size="17" font-weight="700" fill="#1d3b66" text-anchor="middle">The vault: plain files you own</text>
+
+  <rect x="312" y="148" width="180" height="104" rx="10" fill="#ffffff" stroke="#c9d4e5"/>
+  <text x="402" y="174" font-size="14" font-weight="700" fill="#1f2328" text-anchor="middle">Your notes (PARA)</text>
+  <text x="402" y="196" font-size="12.5" fill="#5b6472" text-anchor="middle">Projects · Areas</text>
+  <text x="402" y="214" font-size="12.5" fill="#5b6472" text-anchor="middle">Resources · Archives</text>
+  <text x="402" y="236" font-size="12" fill="#8c95a1" text-anchor="middle">filed by how actionable</text>
+
+  <rect x="508" y="148" width="180" height="104" rx="10" fill="#ffffff" stroke="#c9d4e5"/>
+  <text x="598" y="174" font-size="14" font-weight="700" fill="#1f2328" text-anchor="middle">Raw sources</text>
+  <text x="598" y="196" font-size="12.5" fill="#5b6472" text-anchor="middle">what you captured,</text>
+  <text x="598" y="214" font-size="12.5" fill="#5b6472" text-anchor="middle">kept exactly as found</text>
+  <text x="598" y="236" font-size="12" fill="#8c95a1" text-anchor="middle">never edited</text>
+
+  <rect x="312" y="268" width="376" height="112" rx="10" fill="#ffffff" stroke="#c9d4e5"/>
+  <text x="500" y="294" font-size="14" font-weight="700" fill="#1f2328" text-anchor="middle">The wiki (written by the AI)</text>
+  <text x="500" y="318" font-size="12.5" fill="#5b6472" text-anchor="middle">summaries · topic pages · people and tools · links between them</text>
+  <text x="500" y="340" font-size="12.5" fill="#5b6472" text-anchor="middle">plus the AI's working memory and your journal</text>
+  <text x="500" y="364" font-size="12" fill="#8c95a1" text-anchor="middle">rules file tells the AI how to keep it tidy</text>
+
+  <rect x="780" y="120" width="140" height="250" rx="14" fill="#eef8f1" stroke="#86c59a"/>
+  <text x="850" y="152" font-size="17" font-weight="700" fill="#1e6b3a" text-anchor="middle">AI agent</text>
+  <text x="850" y="196" font-size="14" fill="#1f2328" text-anchor="middle">Reads</text>
+  <text x="850" y="218" font-size="12.5" fill="#5b6472" text-anchor="middle">sources and notes</text>
+  <text x="850" y="262" font-size="14" fill="#1f2328" text-anchor="middle">Writes</text>
+  <text x="850" y="284" font-size="12.5" fill="#5b6472" text-anchor="middle">summaries, links</text>
+  <text x="850" y="328" font-size="14" fill="#1f2328" text-anchor="middle">Answers</text>
+  <text x="850" y="350" font-size="12.5" fill="#5b6472" text-anchor="middle">from what you know</text>
+
+  <line x1="222" y1="200" x2="286" y2="200" stroke="#5b6472" stroke-width="2" marker-end="url(#a)"/>
+  <line x1="286" y1="320" x2="222" y2="320" stroke="#5b6472" stroke-width="2" marker-end="url(#a)"/>
+  <line x1="712" y1="200" x2="776" y2="200" stroke="#5b6472" stroke-width="2" marker-start="url(#a)" marker-end="url(#a)"/>
+  <line x1="712" y1="320" x2="776" y2="320" stroke="#5b6472" stroke-width="2" marker-start="url(#a)" marker-end="url(#a)"/>
+
+  <text x="480" y="440" font-size="12.5" fill="#8c95a1" text-anchor="middle">Structure from PARA (Tiago Forte) · AI-maintained wiki from Andrej Karpathy's LLM Wiki · journal from Matt Wolfe</text>
+</svg>
