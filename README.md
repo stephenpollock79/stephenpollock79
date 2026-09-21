@@ -39,7 +39,7 @@ Currently on a self-directed sabbatical training in AI-native Product Management
 2. **Practice — complete.** Applying it by building an application end to end, solo. See Personal Project below.
 3. **Codification — in progress.** Turning it into a working knowledge base: rules, skills, guidelines and ways of working for AI-enabled product management.
 
-## Personal Project - The Gaffer
+# Personal Project - The Gaffer
 
 [github.com/stephenpollock79/fpl-advisor](https://github.com/stephenpollock79/fpl-advisor#the-gaffer)
 
