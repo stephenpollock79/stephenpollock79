@@ -51,7 +51,7 @@ A personal decision-support app for Fantasy Premier League, built solo in under 
 
 | | |
 |---|---|
-| **Process** | Problem brief → clickable prototype and design system → PRD and architecture decision records → sliced tickets → deployed app |
+| **Process** | Problem brief → clickable prototype and design system → PRD and architecture decision records → sliced tickets → build and test → deployed app |
 | **Scale** | 11-screen clickable prototype in about two days · 240 acceptance criteria · 12 build slices, each reviewed by a fresh AI session before it was called done |
 | **Tools** | Claude (Code, Cowork, Design) · Obsidian · Linear · GitHub · Railway · Supabase |
 | **Cost** | About $30 for a month of hosting, database and tracker, plus a Claude subscription. Under $3 of AI usage across the whole build |
