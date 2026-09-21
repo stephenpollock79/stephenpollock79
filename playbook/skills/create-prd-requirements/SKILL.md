@@ -45,7 +45,7 @@ Walk through the design material in the order it's used, and describe the flow. 
 
 For each customer job in Section 2.3, write one feature grounded in the screens that serve it. Each feature gets one `| Section | Detail |` table holding:
 
-- **Priority:** Must / Should / Could / Nice to have, with a one-line reason. Judge it on how closely it serves the core jobs, how central it is to launch, and how separable it is. Don't default everything to Must. Say it's a first-pass rating the user may change.
+- **Priority:** Must / Should / Could / Won't (MoSCoW), with a one-line reason. Judge it on how closely it serves the core jobs, how central it is to launch, and how separable it is. Don't default everything to Must. Say it's a first-pass rating the user may change.
 - **Serves:** which 2.3 job it delivers.
 - **Happy path.**
 - Bold divider rows, `| **Acceptance Criteria** | |` and `| **Unhappy Paths** | |`, with the criteria underneath.

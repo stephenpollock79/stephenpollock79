@@ -76,7 +76,7 @@ Wireframes and user flows.
 
 For each customer job in 2.3: a happy path and unhappy paths, each with acceptance criteria.
 
-- **Every feature has a priority:** Must / Should / Could / Nice to have, with a one-line reason. The point is build order: if time runs short, the lowest priorities are the ones already agreed to go first.
+- **Every feature has a priority:** Must / Should / Could / Won't (MoSCoW), with a one-line reason. The point is build order: if time runs short, the lowest priorities are the ones already agreed to go first, and Won't records what is deliberately left out of this release.
 - **Non-functional requirements:** security, performance, scalability, accessibility, reliability.
 
 ### 3.3 Delivery Channel
