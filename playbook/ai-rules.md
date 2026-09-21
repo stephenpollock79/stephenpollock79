@@ -13,6 +13,8 @@ They also carry over between conversations, so I'm not re-explaining how I work 
 
 **These are the rules that worked for me**, as a product manager who doesn't write code, building solo. Your sector, team, risks and tools will differ, so treat them as a starting point and adapt them to what you need.
 
+**Rules aren't written once.** Add, refine and remove them as you go: a rule earns its place by fixing something real, and one that no longer does should go. The list below is where mine ended up by the end of the project.
+
 My rules sit in layers, from general to specific, and each rule lives in exactly one place:
 
 | File | What it's for | When the AI reads it |

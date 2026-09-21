@@ -25,8 +25,8 @@ Each step used one of four modes, depending on the stakes:
 | 2 | **Ideation** | Took a long list of ideas and had AI attack each one from five different user viewpoints. Scored the survivors against pass/fail tests, then had AI research competitors and data sources for the winner | 2 |
 | 3 | **Discovery** | Defined the problem only, not the solution. AI drafted it from my input, then a separate AI pass interrogated it before any design started | 3 |
 | 4 | **Design** | Briefed an AI design tool with real app patterns to copy. It produced an 11-screen clickable prototype in about two days; an AI design critique then drove a second version | 3 |
-| 5 | **Shaping** | Wrote the detailed requirements *from* the prototype, not before it: nine features and 240 acceptance criteria. A second interrogation pass produced a numbered decision log, so nothing got argued twice | 3 |
-| 6 | **Tech design** | AI proposed the technical choices (stack, data model, security boundaries) as short decision records. I ruled on the consequences, not the code | 4 |
+| 5 | **Shaping** | Wrote the detailed requirements *from* the prototype, not before it: nine features, each with testable acceptance criteria. A second interrogation pass produced a numbered decision log, so nothing got argued twice | 3 |
+| 6 | **Tech design** | AI proposed the technical choices (stack, data model, security boundaries) as short decision records. I ruled on the consequences, not the code | 3 |
 | 7 | **Planning** | Split the work into 12 slices, each small enough to build in a day or so. Deployed an empty app (hosting, database, login) before building any feature | 3 |
 | ↻ | **Spec** | AI wrote each slice's spec just before building it, after reading the previous slice's review | 4 |
 | ↻ | **Build** | A coding agent built the slice against its spec and ticket | 4 |
@@ -38,7 +38,7 @@ Each step used one of four modes, depending on the stakes:
 
 | Went well | I'd improve |
 |---|---|
-| **Time spent before coding.** Rules, then a prototype, then requirements written from that prototype, then specs. Requirements drawn from something real were specific, and the build ran with relatively few problems | **Stop sooner on repeat failures.** One feature took eighteen attempts before the wrong assumption behind it was found |
+| **Time spent before coding.** A prototype, then requirements written from that prototype, then a spec for each slice. Requirements drawn from something real were specific, and the build ran with relatively few problems | **Stop sooner on repeat failures.** One feature took eighteen attempts before the wrong assumption behind it was found |
 | **The review loop.** Each fresh-eyes review made the next slice's spec better | **Keep human checks human.** If a step needs a person to review it (mode 3), don't let it slide into AI checking itself (mode 4) when time is short |
 | **Solo, in under three weeks.** From problem brief to a deployed app with a real database and login | **Set project and AI rules on day one.** Decide how you want to work with AI before you start, not as problems appear |
 

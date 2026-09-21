@@ -1,45 +1,20 @@
-# Overview
+# Stephen Pollock
 
-> "AI can generate PRDs, interfaces, prototypes, and code, but it does not replace the judgment required to determine which problems are worth solving or which solutions are valuable, usable, feasible, and viable."
->
-> "The biggest risk is outsourcing judgment to the tool rather than using it to improve thinking."
->
-> — Silicon Valley Product Group, [*Product in the AI Era: AI Resource Guide*](https://www.svpg.com/ai-resource-guide/), 2026
+**Lead Product Manager / Director of Product** · 10+ years in product · Fintech and martech · Edinburgh, UK · [LinkedIn](https://www.linkedin.com/in/stephen-pollock-1a67a187)
 
-The data points the same way:
+- **FanDuel Predicts (2025–26):** led promotions from 0-1 build to launch: 50k monthly active users within six months, promotional opt-in up from 5% to 30%, a team of 7 PMs.
+- **FanDuel Martech (2022–25):** led a multi-year, AI-enabled transformation of the promotions platform across 4 dev teams: 10× personalisation, 50% faster time to market, 500+ hours a week saved.
+- **Avaloq (2016–21):** Head of Product for a new cloud wealth platform (6 teams, 60 staff, £8m budget), onboarding its first two customers; grew a mature B2B product used by 60+ banks, with 25% more customers and 30% more revenue.
 
-| | Product managers who say… |
-|---:|:---|
-| **97%** | AI has improved their **personal productivity** |
-| **64%** | AI has improved **product outcomes** |
-| **64%** | PM skills are ***more*** essential in the age of AI (only **1%** say less) |
-
-<sub>Product Focus, [*2026 Survey of the Product Management Profession*](https://www.productfocus.com/product-management-resources/profession-survey/), March 2026.</sub>
-
-Personal productivity is the easy win. Turning it into better products still takes judgement.
-
-### What I set out to learn
-
-How to be an AI-native product manager: using AI across the whole product lifecycle, from problem framing, discovery and design through speccing, build and testing. That meant learning where AI can be trusted and where it needs checking, and what rules, context and ways of working keep it reliable.
-
-I spent weeks on structured, hands-on training first. Then I tested it on a real product: solo, from problem brief to deployed app, with no engineering background. Here is what I learned.
-
-
-# About Me - Stephen Pollock
-
-Lead Product Manager / Director of Product. 10+ years building software products, with a prior career in financial services. UK-based.
-
-Full lifecycle — 0-1 launches, growth, geographic expansion and mature platforms — across B2B, B2C and internal products. 
-
-Deep domain knowledge in Fintech (Fund and Portfolio Management, Portfolio Analytics, Wealth Platforms) and Martech (Customer Promotions and Loyalty).
+Since August 2026 I've been on a self-directed sabbatical to become an AI-native product manager: using AI across the whole lifecycle, from problem framing and discovery to build and test, and learning where it can be trusted and where it needs checking. A month of structured training, then a real product built solo. Here is what I learned.
 
 # How I Trained
 
-Currently on a self-directed sabbatical training in AI-native Product Management and Development, in three phases:
+The sabbatical ran in three phases:
 
-1. **Theory — complete.** A month of structured training in AI tooling and LLM fundamentals, including the Anthropic Academy courses.
-2. **Practice — complete.** Applying it by building an application end to end, solo. See Personal Project below.
-3. **Codification — in progress.** Turning it into a working knowledge base: rules, skills, guidelines and ways of working for AI-enabled product management.
+1. **Theory.** A month of structured training in AI tooling and LLM fundamentals, including the Anthropic Academy courses.
+2. **Practice.** Applying it by building an application end to end, solo. See Personal Project below.
+3. **Codification.** Turning it into a working knowledge base: rules, skills, guidelines and ways of working for AI-enabled product management.
 
 # Personal Project - The Gaffer
 
@@ -50,13 +25,17 @@ A personal decision-support app for Fantasy Premier League, built solo in under 
 | | |
 |---|---|
 | **Process** | Problem brief → clickable prototype and design system → PRD and architecture decision records → sliced tickets → build and test → deployed app |
-| **Scale** | 11-screen clickable prototype in about two days · 240 acceptance criteria · 12 build slices, each reviewed by a fresh AI session before it was called done |
+| **Scale** | 11-screen clickable prototype in about two days · 12 build slices, each reviewed by a fresh AI session before it was called done |
 | **Tools** | Claude (Code, Cowork, Design) · Obsidian · Linear · GitHub · Railway · Supabase |
 | **Cost** | About $30 for a month of hosting, database and tracker, plus a Claude subscription. Under $3 of AI usage across the whole build |
 
 How each phase worked, which mode of working with AI I used, and what I'd change: **[My project workflow](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/project-workflow.md)**.
 
 # AI-Enabled Product Management
+
+> "AI can generate PRDs, interfaces, prototypes, and code, but it does not replace the judgment required to determine which problems are worth solving or which solutions are valuable, usable, feasible, and viable."
+>
+> — Silicon Valley Product Group, [*Product in the AI Era: AI Resource Guide*](https://www.svpg.com/ai-resource-guide/), 2026
 
 Despite what you may read online, there is no one-size-fits-all best practice for AI-enabled product management. How we work has always depended on context: sector, product maturity, whether it's B2B, B2C or an internal platform, regulatory constraints and more. Add AI and its rate of change, and it becomes essential for every product manager to learn, experiment and iterate their way to the approach that works for them.
 
@@ -83,7 +62,3 @@ The right mode depends on the stakes. The more a mistake costs, or the longer it
 - **[The full playbook](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/README.md)**: everything above in one place
 
 I hope these help you shape your own way of working in a fast-changing, AI-enabled world.
-
-## Elsewhere
-
-[LinkedIn](https://www.linkedin.com/in/stephen-pollock-1a67a187)
