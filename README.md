@@ -4,23 +4,23 @@
 >
 > — Silicon Valley Product Group, [*Product in the AI Era: AI Resource Guide*](https://www.svpg.com/ai-resource-guide/), 2026
 
-Product managers see the same gap:
+The data points the same way:
 
-| | |
+| | Product managers who say… |
 |---:|:---|
-| **97%** | say AI has improved their **personal productivity** |
-| **64%** | say it has improved **product outcomes** |
-| **64%** | say PM skills are ***more*** essential in the age of AI (only **1%** say less) |
+| **97%** | AI has improved their **personal productivity** |
+| **64%** | AI has improved **product outcomes** |
+| **64%** | PM skills are ***more*** essential in the age of AI (only **1%** say less) |
 
 <sub>Product Focus, [*2026 Survey of the Product Management Profession*](https://www.productfocus.com/product-management-resources/profession-survey/), March 2026.</sub>
 
-Personal productivity is the easy win. The hard part is turning it into better products.
+Personal productivity is the easy win. Turning it into better products still takes judgement.
 
 ### What I set out to learn
 
-How to be an AI-native product manager: using AI across the whole product lifecycle, from problem framing and discovery through specs, prioritisation and delivery, not just to write code. That meant learning where AI can be trusted and where it needs checking, and what rules, context and ways of working keep it reliable over months rather than for a single conversation.
+How to be an AI-native product manager: using AI across the whole product lifecycle, from problem framing, discovery and design through speccing, build and Testing. That meant learning where AI can be trusted and where it needs checking, and what rules, context and ways of working keep it reliable.
 
-I spent weeks on structured, hands-on training first. Then I tested it on a real product: solo, eleven working days, from problem brief to deployed app, with no engineering background. Here is what I learned.
+I spent weeks on structured, hands-on training first. Then I tested it on a real product: solo, from problem brief to deployed app, with no engineering background. Here is what I learned.
 
 
 # Stephen Pollock
@@ -31,13 +31,15 @@ Full lifecycle — 0-1 launches, growth, geographic expansion and mature platfor
 
 Deep domain knowledge in Fintech (Fund and Portfolio Management, Portfolio Analytics, Wealth Platforms) and Martech (Customer Promotions and Loyalty).
 
+# How I Trained
+
 Currently on a self-directed sabbatical training in AI-native Product Management and Development, in three phases:
 
 1. **Theory — complete.** A month of structured training in AI tooling and LLM fundamentals, including the Anthropic Academy courses.
-2. **Practice — in progress.** Applying it by building an application end to end, solo. See The Gaffer below.
-3. **Codification — next.** Turning it into a working knowledge base: rules, skills, guidelines and ways of working for AI-enabled product management.
+2. **Practice — complete.** Applying it by building an application end to end, solo. See The Gaffer below.
+3. **Codification — in progress.** Turning it into a working knowledge base: rules, skills, guidelines and ways of working for AI-enabled product management.
 
-## The Gaffer
+## Personal Project - The Gaffer
 
 [github.com/stephenpollock79/fpl-advisor](https://github.com/stephenpollock79/fpl-advisor#the-gaffer)
 
