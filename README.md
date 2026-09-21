@@ -1,3 +1,5 @@
+# Overview
+
 > "AI can generate PRDs, interfaces, prototypes, and code, but it does not replace the judgment required to determine which problems are worth solving or which solutions are valuable, usable, feasible, and viable."
 >
 > "The biggest risk is outsourcing judgment to the tool rather than using it to improve thinking."
@@ -23,7 +25,7 @@ How to be an AI-native product manager: using AI across the whole product lifecy
 I spent weeks on structured, hands-on training first. Then I tested it on a real product: solo, from problem brief to deployed app, with no engineering background. Here is what I learned.
 
 
-# Stephen Pollock
+# About Me - Stephen Pollock
 
 Lead Product Manager / Director of Product. 10+ years building software products, with a prior career in financial services. UK-based.
 
