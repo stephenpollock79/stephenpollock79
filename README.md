@@ -36,7 +36,7 @@ Deep domain knowledge in Fintech (Fund and Portfolio Management, Portfolio Analy
 Currently on a self-directed sabbatical training in AI-native Product Management and Development, in three phases:
 
 1. **Theory — complete.** A month of structured training in AI tooling and LLM fundamentals, including the Anthropic Academy courses.
-2. **Practice — complete.** Applying it by building an application end to end, solo. See The Gaffer below.
+2. **Practice — complete.** Applying it by building an application end to end, solo. See Personal Project below.
 3. **Codification — in progress.** Turning it into a working knowledge base: rules, skills, guidelines and ways of working for AI-enabled product management.
 
 ## Personal Project - The Gaffer
