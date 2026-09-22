@@ -39,9 +39,11 @@ How each phase worked, which mode of working with AI I used, and what I'd change
 
 Despite what you may read online, there is no one-size-fits-all best practice for AI-enabled product management. How we work has always depended on context: sector, product maturity, whether it's B2B, B2C or an internal platform, regulatory constraints and more. Add AI and its rate of change, and it becomes essential for every product manager to learn, experiment and iterate their way to the approach that works for them.
 
-What follows is my experience from a two-month training sabbatical, as at September 2026. It covers both sides: using AI to do the work of product management, and building AI into a product.
+So I built a playbook from my own experience: how I worked end to end as a solo product manager on a real build, as at September 2026. It covers the workflow, the four modes of working with AI, best practices, my AI rules and skills, and the second brain that gives AI its memory. It covers both sides too: using AI to do the work of product management, and building AI into the product itself.
 
-The workflow, modes, rules and skills below were built for one product manager working solo without writing code. [Scaling to teams](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/scaling-to-teams.md) covers what I'd change for teams and organisations.
+I've also documented how I'd scale it. **[Scaling to teams and organisations](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/scaling-to-teams.md)** revisits each part — the workflow, the modes, tools, rules, skills and shared context — and says what changes when a team, and then a whole organisation, works this way: who owns what, who stays accountable when AI does the work and AI checks it, and how I'd roll it out.
+
+Underneath all of it is one question, asked at every step: who does the work, and who checks it. I use four modes.
 
 ### Four modes of working with AI
 
@@ -56,12 +58,16 @@ The right mode depends on the stakes. The more a mistake costs, or the longer it
 
 ### Go deeper
 
-- **[Best practices](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/best-practices.md)**: what I'd recommend and what I'd avoid, learned by doing
-- **[AI rules](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/ai-rules.md)** and **[Skills](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/skills/README.md)**: How I optimized my collaboration with AI - The Rules and Skills I use with AI assistants, published in full. 
-- **[My project workflow](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/project-workflow.md)**: the end-to-end process behind The Gaffer, phase by phase
-- **[Scaling to teams](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/scaling-to-teams.md)**: what I'd change to use all this in a team or across an organisation
-- **[Second brain](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/second-brain.md)**: keeping AI useful across months of work, with a notes vault as its memory
-- **[Training resources](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/training-resources.md)**: the podcasts, newsletters, channels and courses I learned from
-- **[The full playbook](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/README.md)**: everything above in one place
+| Page | What's in it, and why it matters |
+|---|---|
+| **[Project workflow](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/project-workflow.md)** | The process behind The Gaffer, step by step, with the artefact and mode of working for each. The clearest view of how I actually work |
+| **[Best practices](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/best-practices.md)** | Nine things I'd do again and five I'd avoid, each learned by getting it wrong first |
+| **[AI rules](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/ai-rules.md)** | How I get AI to act on its own where it's safe, stop where it isn't, and tell the truth about "done" |
+| **[Skills](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/skills/README.md)** | My two PRD skills in full: the problem, then a prototype, then requirements written from that prototype. Plus the skills I use from others |
+| **[Second brain](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/second-brain.md)** | A notes vault as AI's memory, so every session starts from what I already know |
+| **[Scaling to teams and organisations](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/scaling-to-teams.md)** | What changes when a team, and then an organisation, works this way: ownership, accountability, tools, and how I'd roll it out |
+| **[Training resources](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/training-resources.md)** | The topics worth learning as an AI-enabled product manager, and where I learned them |
+
+All of it in one place: **[the full playbook](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/README.md)**.
 
 I hope these help you shape your own way of working in a fast-changing, AI-enabled world.
