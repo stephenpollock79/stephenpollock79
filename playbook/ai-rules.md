@@ -1,5 +1,7 @@
 # My AI Rules
 
+*Written September 2026. AI tools change fast, so some details may have dated.*
+
 Rules are how I shape the way I work with AI. Without them, an assistant guesses. It stops to ask about things it should just decide, and presses on through things it should have stopped for. When it does ask, the question is often buried or pitched at the wrong level.
 
 Good rules fix that. They make the AI:
