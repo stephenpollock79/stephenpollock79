@@ -1,8 +1,10 @@
 # Project Workflow
 
+*Written September 2026. AI tools change fast, so some details may have dated.*
+
 How I took [The Gaffer](https://github.com/stephenpollock79/fpl-advisor#the-gaffer) from idea to deployed app, and how AI was used at each step.
 
-> **Read this in context.** This is what worked for one product manager who can't code, building solo, on a small personal product. It isn't a template for teams, regulated products or larger codebases. Take the parts that fit your situation and change the rest.
+> **Read this in context.** This is what worked for one product manager who can't code, building solo, on a small personal product. It isn't a template for teams, regulated products or larger codebases. Take the parts that fit your situation and change the rest. For teams, see [Scaling to teams](scaling-to-teams.md).
 
 ![The workflow: seven steps in order, then a spec, build, test, review loop repeated per slice, then a validation pass](images/project-workflow.svg)
 

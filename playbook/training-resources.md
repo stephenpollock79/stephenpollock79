@@ -1,5 +1,7 @@
 # Training Resources
 
+*Written September 2026. AI tools change fast, so some details may have dated.*
+
 The places I got the most value from while training as an AI-native product manager, grouped by what they're good for.
 
 > **Picked for my gaps, not yours.** I came into this with 10+ years of product management and a career in finance before that, but no engineering background. So I leaned hardest on how AI actually works and how software gets built, and lightest on product craft. Your experience and gaps will be different, so weight this list accordingly.

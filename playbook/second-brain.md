@@ -1,5 +1,7 @@
 # Second Brain
 
+*Written September 2026. AI tools change fast, so some details may have dated.*
+
 A second brain is a notes vault that you and your AI share. You decide what goes in and ask the questions. The AI does the filing, summarising and linking. Over time it becomes the AI's long-term memory of your work.
 
 ## What it is

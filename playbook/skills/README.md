@@ -1,5 +1,7 @@
 # Skills
 
+*Written September 2026. AI tools change fast, so some details may have dated.*
+
 A skill is a reusable instruction file (a `SKILL.md`) that teaches an AI assistant how to do one task well, the same way every time.
 
 Most of the skills I used were built by other people and lightly adapted for my setup, so rather than republish them, this page credits and links to the originals. The exception is my PRD pair, which I designed and refined heavily, and which is published here in full.

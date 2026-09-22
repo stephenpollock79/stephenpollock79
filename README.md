@@ -41,6 +41,8 @@ Despite what you may read online, there is no one-size-fits-all best practice fo
 
 What follows is my experience from a two-month training sabbatical, as at September 2026. It covers both sides: using AI to do the work of product management, and building AI into a product.
 
+The workflow, modes, rules and skills below were built for one product manager working solo without writing code. [Scaling to teams](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/scaling-to-teams.md) covers what I'd change for teams and organisations.
+
 ### Four modes of working with AI
 
 | Mode | Who does the work | Who reviews it |
@@ -57,6 +59,7 @@ The right mode depends on the stakes. The more a mistake costs, or the longer it
 - **[Best practices](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/best-practices.md)**: what I'd recommend and what I'd avoid, learned by doing
 - **[AI rules](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/ai-rules.md)** and **[Skills](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/skills/README.md)**: How I optimized my collaboration with AI - The Rules and Skills I use with AI assistants, published in full. 
 - **[My project workflow](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/project-workflow.md)**: the end-to-end process behind The Gaffer, phase by phase
+- **[Scaling to teams](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/scaling-to-teams.md)**: what I'd change to use all this in a team or across an organisation
 - **[Second brain](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/second-brain.md)**: keeping AI useful across months of work, with a notes vault as its memory
 - **[Training resources](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/training-resources.md)**: the podcasts, newsletters, channels and courses I learned from
 - **[The full playbook](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/README.md)**: everything above in one place
