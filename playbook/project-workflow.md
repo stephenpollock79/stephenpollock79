@@ -21,11 +21,11 @@ Each step used one of four modes, depending on the stakes:
 
 | # | Step | How I did it | Mode |
 |---|---|---|---|
-| 1 | **Strategy & objectives** | Wrote down why the project existed: what I needed to learn (deploying, logins, a real database). | 2 |
-| 2 | **Ideation** | Took a long list of ideas and had AI attack each one from five different user viewpoints. Scored the survivors against pass/fail tests, then had AI research competitors and data sources for the winner | 2 |
-| 3 | **Discovery** | Defined the problem only, not the solution. AI drafted it from my input, then a separate AI pass interrogated it before any design started | 3 |
-| 4 | **Design** | Briefed an AI design tool with real app patterns to copy. It produced an 11-screen clickable prototype in about two days; an AI design critique then drove a second version | 3 |
-| 5 | **Shaping** | Wrote the detailed requirements *from* the prototype, not before it: nine features, each with testable acceptance criteria. A second interrogation pass produced a numbered decision log, so nothing got argued twice | 3 |
+| 1 | **Strategy & objectives** | Standard Strategy Document, detailing background, core assumption and objectives. Underpins all AI Driven work in following phases. | 2 |
+| 2 | **Ideation** | I brainstormed a long list of ideas and had AI attack each one from five different user viewpoints. Scored the survivors against pass/fail tests against Strategy Doc. Had AI research competitors and data sources for the winner | 2 |
+| 3 | **Discovery** | Defined the problem only, not the solution. AI drafted it from my input (My Strategy and Indeation Documents), then a separate AI pass interrogated it before any design started | 3 |
+| 4 | **Design** | Briefed an AI design tool with the artefacts created in previous steps plus real app patterns to copy. It produced an 11-screen clickable prototype in about two days; an AI design critique then drove a second version | 3 |
+| 5 | **Shaping** | AI Wrote the detailed requirements *from* the prototype, not before it: nine features, each with testable acceptance criteria. A second interrogation pass produced a numbered decision log. | 3 |
 | 6 | **Tech design** | AI proposed the technical choices (stack, data model, security boundaries) as short decision records. I ruled on the consequences, not the code | 3 |
 | 7 | **Planning** | Split the work into 12 slices, each small enough to build in a day or so. Deployed an empty app (hosting, database, login) before building any feature | 3 |
 | ↻ | **Spec** | AI wrote each slice's spec just before building it, after reading the previous slice's review | 4 |
