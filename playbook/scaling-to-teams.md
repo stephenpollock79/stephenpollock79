@@ -32,7 +32,7 @@ Treat work as **high-value or complex** if any of these is true:
 
 **3. Automation won't arrive evenly.** Coding has sped up a lot this year; other steps may not keep pace. That moves the bottleneck, either upstream to discovery and design, or downstream to code review and testing. Do teams then need more product managers and designers, or will AI speed those roles up just as much? Nobody knows yet. On my own project, most of my time went on the steps before coding. Rather than guess, watch where work waits, and rebalance roles and AI around it.
 
-**4. Anyone proposes, someone else reviews.** Shared rules, skills and context all change the same way: anyone can suggest a change, and another person reviews it before it goes in.
+**4. Adoption never finishes.** Tools change monthly, so treat adoption as an ongoing product, not a one-off rollout: start with a pilot, measure it, give it an owner, and protect time for people to keep learning (see [Keeping up](#keeping-up) and [Rolling it out](#rolling-it-out)).
 
 **On this page**
 
@@ -50,6 +50,10 @@ Treat work as **high-value or complex** if any of these is true:
 
 ## Workflow
 
+*My solo version: [Project workflow](project-workflow.md).*
+
+The last two columns are the team and organisation model. Which one applies depends on the work (see core idea 2).
+
 | Step | Solo | High-value or complex work | Everyday work |
 |---|---|---|---|
 | **Strategy & objectives** | Me | Product lead, agreed with leadership | Product lead, agreed with leadership |
@@ -65,6 +69,8 @@ Treat work as **high-value or complex** if any of these is true:
 **Core recommendation:** keep the chain of artefacts, where each step's output feeds the next, and give every artefact a named human owner, whichever column the work is in.
 
 ## Modes
+
+*My solo version: [modes in my project workflow](project-workflow.md#modes-of-working-with-ai).*
 
 A reminder of the four modes:
 
@@ -89,6 +95,8 @@ How they shift in a team:
 **Core recommendation:** make the mode for each type of work, and each environment, an explicit, written team decision, not something each person decides alone.
 
 ## Tools
+
+*Related: [Best practices](best-practices.md), especially picking the right tool and keeping tools to a minimum.*
 
 **Choose tools that support all four modes, not just AI.** My personal project needed no mode 1, so my tools were built for one person working with AI, such as a notes vault on my own computer. Teams work in more ways than that:
 
@@ -118,6 +126,8 @@ The biggest open question I see discussed. AI works best with small, plain files
 
 ## AI rules
 
+*My solo version: [AI rules](ai-rules.md).*
+
 Split the rules into three layers, each with its own owner:
 
 | Layer | Owned by | Examples |
@@ -133,6 +143,8 @@ Split the rules into three layers, each with its own owner:
 
 ## Skills
 
+*My solo version: [Skills](skills/README.md).*
+
 Run skills the way many companies run shared code: **anyone can suggest a change, and the owner reviews it before it goes in.**
 
 - **A core library,** with a named owner for each skill.
@@ -145,6 +157,8 @@ Run skills the way many companies run shared code: **anyone can suggest a change
 **Core recommendation:** treat skills like internal products, with an owner, a review before release, room for teams to make their own versions, and retirement when nobody uses them.
 
 ## Second brain and context management
+
+*My solo version: [Second brain](second-brain.md).*
 
 AI is only as good as the context it's given. Solo, my notes vault was AI's memory. In a team, context needs the same three layers as the rules:
 
@@ -162,6 +176,8 @@ AI is only as good as the context it's given. Solo, my notes vault was AI's memo
 **Core recommendation:** give every person a second brain, give teams and the organisation shared ones, and put controls on how the shared layers change.
 
 ## Keeping up
+
+*Where I learned: [Training resources](training-resources.md).*
 
 AI tools change monthly. Without a plan for learning and ownership, everything above goes stale.
 

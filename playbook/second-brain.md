@@ -18,6 +18,17 @@ Three ideas, borrowed and combined:
 
 It's all plain markdown files in a folder, so any AI tool can read it and you're never locked in.
 
+## Help the AI find its way
+
+An AI can't hold a whole vault in its head at once, and shouldn't try: it's slow, expensive, and the important parts get lost. Give it a map instead, so it reads only what each task needs.
+
+| Part | What it does |
+|---|---|
+| **An entry file** | A short file the AI reads first, at the top of the vault: what the vault is, how it's organised, and where to go next |
+| **Task guides** | Where to look for each kind of task. For project work, start in that project's folder; to answer a question, start at the wiki index |
+| **Index pages** | One per main folder, listing what's there with a one-line summary, so the AI can choose what to open |
+| **Links between notes** | Related notes link to each other, so the AI follows a trail instead of searching everything |
+
 ## Why it's worth it
 
 | Benefit | What it means |
@@ -42,11 +53,12 @@ It's all plain markdown files in a folder, so any AI tool can read it and you're
 1. **Install [Obsidian](https://obsidian.md)** (free) and create a vault. A vault is just a folder of markdown files.
 2. **Add the PARA folders:** `Projects`, `Areas`, `Resources`, `Archives`.
 3. **Add the wiki** inside `Resources`: a `raw` folder for sources (never edited) and a `wiki` folder the AI writes.
-4. **Write a rules file** (`CLAUDE.md`, or `AGENTS.md` for other tools) that tells the AI how the wiki is organised and what it may and may not touch.
-5. **Capture sources** with the [Obsidian Web Clipper](https://obsidian.md/clipper): articles, papers, video transcripts.
-6. **Point your AI at the folder** and ask it to ingest what's new. It writes the summaries and links.
-7. **Add a journal** (optional): a short daily entry the AI answers from your notes.
-8. **Keep it tidy:** schedule regular ingests and a weekly health check, and back the vault up.
+4. **Write an entry file** (`CLAUDE.md`, or `AGENTS.md` for other tools) that the AI reads first: how the vault is organised, where to look for each kind of task, and what it may and may not touch.
+5. **Add an index page** to each main folder, and ask the AI to keep them up to date.
+6. **Capture sources** with the [Obsidian Web Clipper](https://obsidian.md/clipper): articles, papers, video transcripts.
+7. **Point your AI at the folder** and ask it to ingest what's new. It writes the summaries and links.
+8. **Add a journal** (optional): a short daily entry the AI answers from your notes.
+9. **Keep it tidy:** schedule regular ingests and a weekly health check, and back the vault up.
 
 For the full build, start with [Karpathy's LLM Wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) and [Matt Wolfe's step-by-step video](https://www.youtube.com/watch?v=yke4fLQUsh4). I used Claude as the AI agent; the pattern works the same with other agents that can read and write files.
 
