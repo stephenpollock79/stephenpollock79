@@ -14,7 +14,7 @@ The sabbatical ran in three phases:
 
 1. **Theory.** A month of structured training in AI tooling and LLM fundamentals, including the Anthropic Academy courses.
 2. **Practice.** Applying it by building an application end to end, solo. See Personal Project below.
-3. **Codification.** Turning it into a working knowledge base: rules, skills, guidelines and ways of working for AI-enabled product management.
+3. **Playbook.** Writing up what I learned as a [playbook](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/README.md): my AI rules and skills, best practices, project workflow and second brain, plus how I'd scale it all to teams.
 
 # Personal Project - The Gaffer
 
