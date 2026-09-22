@@ -91,6 +91,7 @@ How they shift in a team:
 - **The safer the environment, the more AI can do on its own.** In test and staging environments, AI can run build, test and fix loops in mode 4. Anything going to production gets a human review.
 - **Mode 1 comes back.** Solo, I never needed it. In a team, people working together on the hard problems is still where much of the value is.
 - **Decide mode 4 as a team.** Agree in writing which work AI may do and check on its own. Start with a short list and grow it as trust builds.
+- **Automation doesn't move accountability.** Mode 4 changes who does the work, not who answers for it. Every piece of work has one named human who owns the outcome, even when AI produced it and AI checked it. If nobody can say who that is, the work shouldn't be running in mode 4.
 
 **Core recommendation:** make the mode for each type of work, and each environment, an explicit, written team decision, not something each person decides alone.
 
@@ -221,7 +222,7 @@ Hard to predict, which is exactly why the bets you make today should be ones you
   - **A smoke test:** does it work the way users need?
   - **A code review:** even if it works, is it good code? Secure, able to scale, and easy to build on.
 
-  This depends on strong automated tests, security checks and cost control being in place first.
+  This depends on strong automated tests, security checks and cost control being in place first. Even then, a named person still owns each release: the more of the work AI does, the more explicit that has to be.
 - **Tools meet in the middle.** I expect the wiki, tracker and whiteboard tools to become more AI-friendly: a good surface for people to work together, with a format underneath that AI can read cheaply and well. When they do, the curated layer from [Tools](#tools) may no longer be needed.
 - **Providers keep changing.** Teams whose rules, skills and context are portable will switch to the best tool easily. Teams locked into one provider won't.
 
