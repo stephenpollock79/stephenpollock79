@@ -4,6 +4,8 @@
 
 A second brain is a notes vault that you and your AI share. You decide what goes in and ask the questions. The AI does the filing, summarising and linking. Over time it becomes the AI's long-term memory of your work.
 
+This page is about one person's vault. Shared context for a team or an organisation needs its own layers and controls, covered in [Scaling to teams](scaling-to-teams.md).
+
 ## What it is
 
 ![How the second brain works: you capture sources and ask questions, the AI reads and writes a wiki inside a vault of plain files you own](images/second-brain.svg)
