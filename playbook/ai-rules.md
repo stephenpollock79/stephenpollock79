@@ -13,7 +13,7 @@ Good rules fix that. They make the AI:
 
 They also carry over between conversations, so I'm not re-explaining how I work every morning.
 
-**These are the rules that worked for me**, as a product manager who doesn't write code, building solo. Your sector, team, risks and tools will differ, so treat them as a starting point and adapt them to what you need.
+**These are the rules that worked for me**, as a product manager who doesn't write code, building solo. They cover how one person works with AI. Your sector, team, risks and tools will differ, so treat them as a starting point and adapt them to what you need. For rules at team and organisation level, and who owns each layer, see [Scaling to teams](scaling-to-teams.md).
 
 **Rules aren't written once.** Add, refine and remove them as you go: a rule earns its place by fixing something real, and one that no longer does should go. The list below is where mine ended up by the end of the project.
 

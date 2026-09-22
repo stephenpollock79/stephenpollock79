@@ -6,6 +6,8 @@ A skill is a reusable instruction file (a `SKILL.md`) that teaches an AI assista
 
 Most of the skills I used were built by other people and lightly adapted for my setup, so rather than republish them, this page credits and links to the originals. The exception is my PRD pair, which I designed and refined heavily, and which is published here in full.
 
+These are one person's skills. For running a shared skill library across a team, with owners, reviews and team versions, see [Scaling to teams](../scaling-to-teams.md).
+
 **Keep your skills outside any one AI app.** Store them as plain files on your own computer or in a repo, and point each tool at them. Then you can switch tools or models without losing them, and the same skill behaves the same everywhere.
 
 **On this page**
