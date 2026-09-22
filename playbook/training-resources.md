@@ -2,11 +2,34 @@
 
 *Written September 2026. AI tools change fast, so some details may have dated.*
 
-The places I got the most value from while training as an AI-native product manager, grouped by what they're good for.
+The topics I'd learn to become an AI-enabled product manager, and the places I got the most value from while training.
 
 > **Picked for my gaps, not yours.** I came into this with 10+ years of product management and a career in finance before that, but no engineering background. So I leaned hardest on how AI actually works and how software gets built, and lightest on product craft. Your experience and gaps will be different, so weight this list accordingly.
 
 ---
+
+## Topics worth learning
+
+The areas I'd cover to become an AI-enabled product manager, with one or two places to start on each.
+
+| Topic | What it is | Why it matters | Start with |
+|---|---|---|---|
+| **1 · How LLMs work, and their limits** | What a language model is (a system trained to predict text) and where that breaks: making things up, forgetting, confident mistakes | You can't judge when to trust AI, or which mode to use, without knowing how it fails | [Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) (Karpathy, 1 hr) · [AI Capabilities and Limitations](https://anthropic.skilljar.com/ai-capabilities-and-limitations) (Anthropic Academy) |
+| **2 · Context management and second brains** | Deciding what the AI knows at each moment: rules, notes, documents and memory across sessions | The biggest lever on quality. Too little and AI guesses; too much and it loses the thread | [Effective context engineering](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents) (Anthropic) · [My second brain](second-brain.md) |
+| **3 · What LLMs can do** | What today's tools can actually do: read files and images, search, use tools, run long tasks, and which model suits which job | Capabilities change monthly. Knowing the current limits stops you under-using AI, or trusting it with the wrong job | [How I Use LLMs](https://www.youtube.com/watch?v=EWvNQjAaOHw) (Karpathy, 2 hr) · [Claude 101](https://anthropic.skilljar.com/claude-101) (Anthropic Academy) |
+| **4 · Prompting** | Writing clear instructions: context, examples and the output you want | Still the foundation every other technique builds on | [Prompt engineering overview](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview) · [Interactive tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) (both Anthropic) |
+| **5 · Skills** | Reusable instruction files that teach AI one task, done the same way every time | Turns your best way of doing a task into something repeatable and shareable | [Introduction to Agent Skills](https://anthropic.skilljar.com/introduction-to-agent-skills) (Anthropic Academy) · [My skills](skills/README.md) |
+| **6 · Agents and connecting tools** | AI that works in a loop: plans, uses tools and checks its own work. MCP is the standard way to connect it to your apps and data | Where most AI-enabled PM work is heading: handing over whole tasks, not asking single questions | [Effective harnesses for long-running agents](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents) (Anthropic) · [What is MCP?](https://modelcontextprotocol.io/docs/getting-started/intro) |
+| **7 · Evals and AI quality** | Testing AI output systematically: define what good looks like, study real failures, measure | Without evals, "it seems fine" is the only quality bar, and that bar isn't good enough for any AI feature | [Your AI Product Needs Evals: FAQ](https://hamel.dev/blog/posts/evals-faq/) (Hamel Husain) · [AI evals guide for PMs](https://www.productcompass.pm/p/ai-evals) (Product Compass) |
+| **8 · AI efficiency** | The same result for less cost and time: the right model for the job, lean context, reusing work | Barely matters solo, but matters a lot across a team or an organisation | [How I cut my AI tokens bill](https://thedatawriter.substack.com/p/how-i-cut-my-ai-tokens-bill-by-hundreds) |
+| **9 · Building with coding agents** | Directing AI to build software with plans, specs and tests, rather than "vibe coding" | Product managers can now build real prototypes and apps. The discipline keeps what they build safe | [AI Hero](https://www.aihero.dev) (Matt Pocock) · [Claude Code 101](https://anthropic.skilljar.com/claude-code-101) (Anthropic Academy) |
+| **10 · AI-enabled product management** | Bringing it all together: using AI across the whole product lifecycle, choosing how much to hand over at each step, and building AI into products | The topics above only pay off when they add up to a way of working | [My playbook](README.md), one worked example · [Product in the AI Era](https://www.svpg.com/ai-resource-guide/) (SVPG) |
+
+---
+
+## Where I learned
+
+The people, channels and courses I got the most from, grouped by what they're good for.
 
 ## How AI and LLMs actually work
 
