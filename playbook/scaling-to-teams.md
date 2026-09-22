@@ -1,4 +1,4 @@
-# Scaling to Teams
+# Scaling to Teams and Organisations
 
 *Written September 2026. AI tools change fast, so some details may have dated.*
 
