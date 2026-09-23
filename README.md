@@ -60,11 +60,11 @@ The right mode depends on the stakes. The more a mistake costs, or the longer it
 
 | Page | What's in it, and why it matters |
 |---|---|
-| **[Project workflow](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/project-workflow.md)** | The process behind The Gaffer, step by step, with the artefact and mode of working for each. The clearest view of how I actually work |
-| **[Best practices](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/best-practices.md)** | Nine things I'd do again and five I'd avoid, each learned by getting it wrong first |
-| **[AI rules](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/ai-rules.md)** | How I get AI to act on its own where it's safe, stop where it isn't, and tell the truth about "done" |
-| **[Skills](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/skills/README.md)** | My two PRD skills in full: the problem, then a prototype, then requirements written from that prototype. Plus the skills I use from others |
-| **[Second brain](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/second-brain.md)** | A notes vault as AI's memory, so every session starts from what I already know |
+| **[Project workflow](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/project-workflow.md)** | The end-to-end process I used to take a product from idea to deployed app, solo: each step, what it produced, and which mode of working with AI I used. The clearest view of how I actually work |
+| **[Best practices](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/best-practices.md)** | How to get more out of AI and avoid what quietly degrades it: tailoring your setup to your own work, keeping it lean, and knowing where AI can't be trusted. Nine to do, five to avoid, each learned by doing |
+| **[AI rules](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/ai-rules.md)** | How to shape the way AI works with you: when it acts on its own, when it stops and asks, and how it pitches every explanation to your expertise, so you can judge the call rather than nod along |
+| **[Skills](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/skills/README.md)** | What a skill is, the ones I use from others with links to each, and the PRD pair I built myself, published in full |
+| **[Second brain](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/second-brain.md)** | AI is only as good as the context you give it. A notes vault that becomes its memory, so every session starts from what you already know and the answers fit your work rather than the average |
 | **[Scaling to teams and organisations](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/scaling-to-teams.md)** | What changes when a team, and then an organisation, works this way: ownership, accountability, tools, and how I'd roll it out |
 | **[Training resources](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/training-resources.md)** | The topics worth learning as an AI-enabled product manager, and where I learned them |
 
