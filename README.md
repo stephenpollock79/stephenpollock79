@@ -14,7 +14,7 @@ The sabbatical ran in three phases:
 
 1. **Theory.** A month of structured training in AI tooling and LLM fundamentals, including the Anthropic Academy courses.
 2. **Practice.** Applying it by building an application end to end, solo. See Personal Project below.
-3. **Playbook.** Writing up what I learned as a [playbook](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/README.md): my AI rules and skills, best practices, project workflow and second brain, plus how I'd scale it all to teams.
+3. **Playbook.** Writing up what I learned as a [playbook](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/README.md): my AI rules and skills, best practices, project workflow and second brain, plus how I'd scale it all to [teams and organisations](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/scaling-to-teams.md).
 
 # Personal Project - The Gaffer
 
@@ -39,7 +39,7 @@ How each phase worked, which mode of working with AI I used, and what I'd change
 
 Despite what you may read online, there is no one-size-fits-all best practice for AI-enabled product management. How we work has always depended on context: sector, product maturity, whether it's B2B, B2C or an internal platform, regulatory constraints and more. Add AI and its rate of change, and it becomes essential for every product manager to learn, experiment and iterate their way to the approach that works for them.
 
-So I built a playbook from my own experience: how I worked end to end as a solo product manager on a real build, as at September 2026. It covers the workflow, the four modes of working with AI, best practices, my AI rules and skills, and the second brain that gives AI its memory. It covers both sides too: using AI to do the work of product management, and building AI into the product itself.
+So I built a playbook from my own experience: how I worked end to end as a solo product manager on a real build, as at September 2026. It covers the workflow, the four modes of working with AI, best practices, my AI rules and skills, and the second brain that gives AI its memory. It's about AI-enabled ways of working. For the other side, AI inside a product, see [The Gaffer](https://github.com/stephenpollock79/fpl-advisor#the-gaffer): how it turns data into advice, and how that advice is tested.
 
 I've also documented how I'd scale it. **[Scaling to teams and organisations](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/scaling-to-teams.md)** revisits each part — the workflow, the modes, tools, rules, skills and shared context — and says what changes when a team, and then a whole organisation, works this way: who owns what, who stays accountable when AI does the work and AI checks it, and how I'd roll it out.
 
