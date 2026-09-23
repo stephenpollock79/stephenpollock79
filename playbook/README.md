@@ -10,7 +10,7 @@ How I work as an AI-native product manager: the rules, skills and practices I us
 | [Best practices](best-practices.md) | What I recommend and what I'd avoid, learned by doing |
 | [Project workflow](project-workflow.md) | The end-to-end process behind The Gaffer, phase by phase |
 | [Scaling to teams and organisations](scaling-to-teams.md) | What I'd change to use this playbook in a team or across an organisation |
-| [Second brain](second-brain.md) | Keeping AI useful across months of work with a notes vault as its memory |
+| [Second brain and context management](second-brain.md) | Keeping AI useful across months of work with a notes vault as its memory |
 | [Skills](skills/README.md) | My two PRD skills in full, plus the skills from others I recommend |
 | [Training resources](training-resources.md) | The people, channels, newsletters and courses I learned from |
 

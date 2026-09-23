@@ -1,4 +1,4 @@
-# Second Brain
+# Second Brain and Context Management
 
 *Written September 2026. AI tools change fast, so some details may have dated.*
 
