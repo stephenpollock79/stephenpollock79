@@ -59,4 +59,6 @@ The escalation in step 6 — functionality, cost, security — isn't an ad-hoc j
 
 ---
 
+This is the solo version. What changes with a team, and where I think agentic autonomy goes from here, is in [Scaling to teams and organisations](scaling-to-teams.md).
+
 [← Back to the playbook](README.md)
