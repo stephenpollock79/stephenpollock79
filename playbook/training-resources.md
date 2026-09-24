@@ -58,7 +58,7 @@ The people, channels and courses I got the most from, grouped by what they're go
 | Resource | Format | Why it was useful |
 |---|---|---|
 | [Lenny's Podcast](https://www.lennyspodcast.com) | Podcast · newsletter | The best single source for product, growth and leadership, with a growing focus on how AI is changing the PM role |
-| [The Product Compass](https://www.productcompass.pm) | Newsletter | Paweł Huryn's frameworks and templates for AI-native PM work. Very practical |
+| [The Product Compass](https://www.productcompass.pm) | Newsletter | Paweł Huryn's frameworks and templates for AI-enabled PM work. Very practical |
 | [Product School](https://productschool.com) | Podcast · YouTube · courses | Broad, accessible content on PM skills and careers, including AI product management |
 | [The Beautiful Mess](https://cutlefish.substack.com) | Newsletter | John Cutler on how product teams and organisations actually work. A useful counterweight to tool hype |
 
