@@ -57,6 +57,8 @@ The escalation in step 6 — functionality, cost, security — isn't an ad-hoc j
 | **The review loop.** Each fresh-eyes review made the next slice's spec better | **Keep human checks human.** If a step needs a person to review it (mode 3), don't let it slide into AI checking itself (mode 4) when time is short |
 | **Solo, in under three weeks.** From problem brief to a deployed app with a real database and login | **Set project and AI rules on day one.** Decide how you want to work with AI before you start, not as problems appear |
 
+Each of those improvements produced something. The repeat-failure trap, and the temptation to let AI mark its own homework, became [best practices](best-practices.md). How much AI decides alone, and when it stops and asks, became [AI rules](ai-rules.md). The steps I did the same way every time became [skills](skills/README.md). None of it existed on day one — each was written in response to something going wrong. A second project starts with all three in place, which is most of what I'd do differently.
+
 ---
 
 This is the solo version. What changes with a team, and where I think agentic autonomy goes from here, is in [Scaling to teams and organisations](scaling-to-teams.md).
