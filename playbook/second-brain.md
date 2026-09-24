@@ -15,7 +15,7 @@ Three ideas, borrowed and combined:
 | Idea | From | What it does here |
 |---|---|---|
 | **PARA** | [Tiago Forte](https://fortelabs.com/blog/para/) | Files your own notes by how actionable they are: **P**rojects, **A**reas, **R**esources, **A**rchives |
-| **LLM Wiki** | [Andrej Karpathy](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) | You add sources; the AI writes and maintains a wiki of summaries and linked topic pages. It does the upkeep that makes most wikis decay |
+| **LLM Wiki** | [Andrej Karpathy](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) | You add sources; the AI writes and maintains a wiki of summaries and linked topic pages. It does the upkeep that most wikis decay without |
 | **Grounded journal** | [Matt Wolfe](https://www.youtube.com/watch?v=yke4fLQUsh4) | A daily journal the AI answers from your own notes, not generic advice |
 
 It's all plain markdown files in a folder, so any AI tool can read it and you're never locked in.

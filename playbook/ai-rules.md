@@ -116,7 +116,7 @@ If I'd just reply "yes, do it", do it and tell me. When a task does need me, put
 
 A short file every assistant reads first:
 
-> **Who I am:** Product manager, 10+ years, UK. On a sabbatical learning AI-native product management.
+> **Who I am:** Product manager, 10+ years, UK. On a sabbatical learning AI-enabled product management.
 >
 > **How to work with me:**
 > - I don't read code. Tell me the consequences, not the code changes.
