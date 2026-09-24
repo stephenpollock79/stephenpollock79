@@ -4,7 +4,7 @@
 
 - **FanDuel Predicts (2025–26):** led promotions from 0-1 build to launch: 50k monthly active users within six months, promotional opt-in up from 5% to 30%, a team of 7 PMs.
 - **FanDuel Martech (2022–25):** led a multi-year, AI-enabled transformation of the promotions platform across 4 dev teams: 10× personalisation, 50% faster time to market, 500+ hours a week saved.
-- **Avaloq (2016–21):** Head of Product for a new cloud wealth platform (6 teams, 60 staff, £8m budget), onboarding its first two customers; grew a mature B2B product used by 60+ banks, with 25% more customers and 30% more revenue.
+- **Avaloq (2016–21):** Senior PM through to Head of Product. Grew a mature B2B portfolio management product used by 60+ banks — 25% more customers, 30% more revenue — then took the new cloud wealth platform (6 teams, 60 staff, £8m budget) from 0-1 to its first two live customers.
 
 Since August 2026 I've been on a self-directed sabbatical to become an AI-enabled product manager: using AI across the whole lifecycle, from problem framing and discovery to build and test, and learning where it can be trusted and where it needs checking. A month of structured training, then a real product built solo. Here is what I learned.
 
