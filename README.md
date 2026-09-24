@@ -6,7 +6,7 @@
 - **FanDuel Martech (2022–25):** led a multi-year, AI-enabled transformation of the promotions platform across 4 dev teams: 10× personalisation, 50% faster time to market, 500+ hours a week saved.
 - **Avaloq (2016–21):** Head of Product for a new cloud wealth platform (6 teams, 60 staff, £8m budget), onboarding its first two customers; grew a mature B2B product used by 60+ banks, with 25% more customers and 30% more revenue.
 
-Since August 2026 I've been on a self-directed sabbatical to become an AI-native product manager: using AI across the whole lifecycle, from problem framing and discovery to build and test, and learning where it can be trusted and where it needs checking. A month of structured training, then a real product built solo. Here is what I learned.
+Since August 2026 I've been on a self-directed sabbatical to become an AI-enabled product manager: using AI across the whole lifecycle, from problem framing and discovery to build and test, and learning where it can be trusted and where it needs checking. A month of structured training, then a real product built solo. Here is what I learned.
 
 # How I Trained
 
@@ -27,7 +27,7 @@ A personal decision-support app for Fantasy Premier League, built solo in under 
 | **Process** | Problem brief → clickable prototype and design system → PRD and architecture decision records → sliced tickets → build and test → deployed app |
 | **Scale** | 11-screen clickable prototype in about two days · 12 build slices, each reviewed by a fresh AI session before it was called done |
 | **Tools** | Claude (Code, Cowork, Design) · Obsidian · Linear · GitHub · Railway · Supabase |
-| **Cost** | About $30 for a month of hosting, database and tracker, plus a Claude subscription. Under $3 of AI usage across the whole build |
+| **Cost** | About $30 for a month of hosting, database and tracker, plus a Claude subscription. Under $3 of Claude API usage across the whole build, on top of the subscription |
 
 How each phase worked, which mode of working with AI I used, and what I'd change: **[My project workflow](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/project-workflow.md)**.
 
