@@ -214,7 +214,13 @@ Protected time for everyone is a big investment, so treat it as a leadership dec
 
 ## Where this could go
 
-Hard to predict, which is exactly why the bets you make today should be ones you can undo. But here's where I think this is heading:
+Agentic capability will keep growing, and more of this workflow will run as mode 4 — AI doing the work and checking it, with no human in the loop for longer stretches.
+
+The limiting factor isn't what an agent can do. It's error detection. An agent that takes a wrong turn, drifts from the objective, or loops on a faulty assumption will keep going confidently, and the longer it runs unsupervised the more expensive that is to unwind. So the question isn't how much autonomy to give — it's what has to be in place before you can give it: guardrails that detect the failure, stop the run and escalate to a human. Cost ceilings. Checks against the original objective, not just the last instruction. Detection of loops and repeat failures.
+
+Which puts the pressure somewhere specific for product managers. If an agent can run unsupervised for a week, the acceptance criteria are the only thing standing between that and a week of confident wrong work. Specification quality stops being a craft nicety and becomes the control mechanism.
+
+Beyond that it's hard to predict, which is exactly why the bets you make today should be ones you can undo. Where I think the rest is heading:
 
 - **Roles blend further.** More people will work across the whole process, with experts leading where the stakes are high.
 - **The mix of roles shifts.** As each step speeds up at a different rate, the balance of product managers, designers, engineers and testers in a team will change. Which way it goes is still open.

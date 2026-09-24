@@ -54,7 +54,7 @@ Underneath all of it is one question, asked at every step: who does the work, an
 | **3 · Human validation** | AI | Human reviews and helps iterate |
 | **4 · Autonomous AI** | AI | AI reviews and iterates on its own |
 
-The right mode depends on the stakes. The more a mistake costs, or the longer it would go unnoticed, the more a human belongs in the loop. Over time, more tasks will move down this list. In [My project workflow](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/project-workflow.md) I show which mode I used in each phase of the build, what worked, what didn't and what I'd change.
+The right mode depends on the stakes. The more a mistake costs, or the longer it would go unnoticed, the more a human belongs in the loop. Over time, more tasks will move down this list — and what decides how fast is error detection, not raw capability: see [where this could go](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/scaling-to-teams.md#where-this-could-go). In [My project workflow](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/project-workflow.md) I show which mode I used in each phase of the build, what worked, what didn't and what I'd change.
 
 ### Go deeper
 
