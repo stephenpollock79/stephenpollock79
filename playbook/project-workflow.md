@@ -26,11 +26,11 @@ Each step produces an artefact, and that artefact is the main input to the steps
 | # | Step | How I did it | Artefact | Mode |
 |---|---|---|---|---|
 | 1 | **Strategy & objectives** | Wrote a standard strategy document: background, core assumptions and objectives. It underpins all the AI-driven work in the steps that follow | Strategy and objectives document | 2 |
-| 2 | **Ideation** | Brainstormed a long list of ideas and had AI attack each one from five different user viewpoints. Scored the survivors against pass/fail tests drawn from the strategy document, then had AI research competitors and data sources for the winner | High-level project idea document | 2 |
+| 2 | **Ideation** | Brainstormed a long list of ideas, then ran a council review — five sub-agents in parallel, each attacking every idea from a different user viewpoint. Scored the survivors against pass/fail tests drawn from the strategy document, then had AI research competitors and data sources for the winner | High-level project idea document | 2 |
 | 3 | **Discovery** | Defined the problem only, not the solution. The `create-prd-problem-statement` skill drafted it in Claude Cowork from my input and the strategy and ideation documents; the `grill-me` skill then interrogated it in a fresh session, before any design started | PRD (problem section complete) | 3 |
 | 4 | **Design** | Briefed Claude Design with the artefacts from the previous steps, plus real app patterns to copy. It produced an 11-screen clickable prototype in about two days; an AI design critique then drove a second version | High-fidelity prototype and design system document | 3 |
 | 5 | **Shaping** | The `create-prd-requirements` skill wrote the detailed requirements *from* the prototype, not before it: nine features, each with testable acceptance criteria. A second `grill-me` pass produced a numbered decision log | PRD (requirements section complete) and decision log | 3 |
-| 6 | **Tech design** | AI proposed the technical choices (stack, data model, security boundaries) as short decision records. I ruled on the consequences, not the code | Architecture decision records and technical architecture document | 3 |
+| 6 | **Tech design** | Claude Code drafted the technical design from the PRD, and a sub-agent reviewed it. It made the technical calls on its own and escalated the ones touching functionality, cost or security. I ruled on the consequences, not the code | Architecture decision records and technical architecture document | 3 |
 | 7 | **Planning** | Split the work into 12 slices, each small enough to build in a day or so. Deployed an empty app (hosting, database, login) before building any feature | Build plan, tickets for each slice, and an empty deployed app | 3 |
 | ↻ | **Spec** | The `to-spec` skill wrote each slice's spec in Cowork just before building it, after reading the previous slice's review | Slice spec | 4 |
 | ↻ | **Build** | Claude Code built the slice against its spec and ticket | Working code for the slice | 4 |
@@ -40,11 +40,14 @@ Each step produces an artefact, and that artefact is the main input to the steps
 
 ### What "AI" means in that table
 
-Three different things, and the difference between them is most of the point.
+Four different things, and the differences between them are most of the point.
 
 - A **skill** is an instruction file I wrote or adapted that runs the same way every time. The PRD and spec steps are skills, published in full — with where each one was used — in [Skills](skills/README.md).
 - A **coding agent** is Claude Code working in the repo against a spec and a ticket, with tests.
+- A **council review** is several sub-agents working the same problem in parallel from different angles — five user viewpoints attacking each product idea, a second agent reviewing the technical design — with their findings read together rather than one at a time.
 - A **fresh session** is a new conversation that sees only the files, and none of the reasoning that produced them. That's the review step, and the isolation is the whole reason it works.
+
+The escalation in step 6 — functionality, cost, security — isn't an ad-hoc judgement call. It's the gate table from [AI rules](ai-rules.md) firing on a real decision.
 
 ## What went well, and what I'd improve
 
