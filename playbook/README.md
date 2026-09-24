@@ -2,7 +2,7 @@
 
 *Written September 2026. AI tools change fast, so some details may have dated.*
 
-How I work as an AI-native product manager: the rules, skills and practices I use, drawn from a two-month training sabbatical and a solo build. They are what worked for me, a starting point to adapt rather than a standard to copy.
+How I work as an AI-enabled product manager: the rules, skills and practices I use, drawn from a two-month sabbatical: a month of training, then a solo build. They are what worked for me, a starting point to adapt rather than a standard to copy.
 
 | Page | What's in it |
 |---|---|

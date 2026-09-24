@@ -2,7 +2,7 @@
 
 *Written September 2026. AI tools change fast, so some details may have dated.*
 
-What I'd recommend, and what I'd avoid, after two months of training and one solo build with AI. None of these came from reading; each was learned by doing, and most by getting it wrong first. They aren't set-and-forget either. Like any way of working, they need revisiting as the tools and the work change.
+What I'd recommend, and what I'd avoid, after a month of training and one solo build with AI. None of these came from reading alone; each was learned through a combination of theory and doing, and most by getting it wrong first. They aren't set-and-forget either. Like any way of working, they need revisiting as the tools and the work change.
 
 These worked for me, a product manager who doesn't write code, building solo. Take them as a starting point and adapt them to your own work. For what changes once a team or a whole organisation works this way, see [Scaling to teams](scaling-to-teams.md).
 
