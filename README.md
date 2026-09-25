@@ -1,6 +1,7 @@
 # Stephen Pollock
 
-**Lead Product Manager / Director of Product** · 10+ years in product · Fintech and martech · Edinburgh, UK · [LinkedIn](https://www.linkedin.com/in/stephen-pollock-1a67a187)
+**Principal / Lead Product Manager** — hands-on product leadership  
+Most recently Director of Product Management at FanDuel · 10+ years in product · Fintech, martech, promotions and loyalty · Edinburgh, UK · [LinkedIn](https://www.linkedin.com/in/stephen-pollock-1a67a187)
 
 - **FanDuel Predicts (2025–26):** led promotions from 0-1 build to launch: 50k monthly active users within six months, promotional opt-in up from 5% to 30%, a team of 7 PMs.
 - **FanDuel Martech (2022–25):** led a multi-year, AI-enabled transformation of the promotions platform across 4 dev teams: 10× personalisation, 50% faster time to market, 500+ hours a week saved.
