@@ -16,12 +16,34 @@ Since August 2026 I've been on a self-directed sabbatical to become an AI-enable
 **The sabbatical.** The goal: use AI across the whole product lifecycle, from problem framing and discovery to build and test, and learn where it can be trusted and where it needs checking. It ran in three phases:
 
 1. **Theory.** A month of structured training in AI tooling and LLM fundamentals, including the Anthropic Academy courses ([training resources](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/training-resources.md)).
-2. **Practice.** Building a real application end to end, solo (see [Pet Projects](#pet-projects)).
+2. **Practice.** Building real applications end to end, solo (see [Pet Projects](#pet-projects)).
 3. **Playbook.** Writing up what I learned as a [playbook](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/README.md), including how I'd scale it to [teams and organisations](https://github.com/stephenpollock79/stephenpollock79/blob/main/playbook/scaling-to-teams.md).
 
 </details>
 
 ## Pet Projects
+
+### Next Role
+
+A job-search app that runs in your own Claude account: it finds roles, screens them against your preferences, researches them, drafts tailored CVs and cover letters, and preps your interviews. Built in about three weeks, part time, and used every day for my own job search; anyone can install their own copy. **[Try the demo and read more →](https://github.com/stephenpollock79/next-role)**
+
+<details>
+<summary><b>Process, scale, tools and cost</b></summary>
+
+<br>
+
+Not a prototype. I directed the build rather than hand-writing the code.
+
+| | |
+|---|---|
+| **Process** | Built by dogfooding: used daily for my own search, with bugs fixed and features added as I hit them → personal details moved out of the code → a guided setup wizard, a public demo and an install guide → tested end to end on a brand-new account |
+| **Scale** | About 18,000 lines of JavaScript in 52 files · 11 Claude skills · 600+ published versions · about 560 automated checks |
+| **Tools** | Claude (artifacts, skills, scheduled tasks, Claude in Chrome) · Gmail · GitHub · Playwright |
+| **Cost** | No hosting, database or API costs: it runs entirely inside a Claude subscription |
+
+More on how it was built: **[How I built it](https://github.com/stephenpollock79/next-role#how-i-built-it)**.
+
+</details>
 
 ### The Gaffer
 
