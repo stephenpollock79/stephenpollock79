@@ -54,7 +54,7 @@ A decision-support app for Fantasy Premier League, built solo in under three wee
 
 <br>
 
-Not a prototype. I directed the build rather than hand-writing the code.
+I directed the build rather than hand-writing the code.
 
 | | |
 |---|---|
