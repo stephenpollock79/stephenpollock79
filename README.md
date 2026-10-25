@@ -25,7 +25,7 @@ Since August 2026 I've been on a self-directed sabbatical to become an AI-enable
 
 ### Next Role
 
-A job-search app that runs in your own Claude account: it finds roles, screens them against your preferences, researches them, drafts tailored CVs and cover letters, and preps your interviews. Built in about three weeks, part time, and used every day for my own job search; anyone can install their own copy. **[Try the demo and read more →](https://github.com/stephenpollock79/next-role)**
+A job-search app that runs in your own Claude account: it finds roles, screens them against your preferences, researches them, drafts tailored CVs and cover letters, and preps your interviews. Built in about three weeks, part time, and used every day for my own job search; anyone can install their own copy. **[Try the demo and read more →](https://github.com/stephenpollock79/next-role#next-role)**
 
 <details>
 <summary><b>Process, scale, tools and cost</b></summary>
