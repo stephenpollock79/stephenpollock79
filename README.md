@@ -32,7 +32,7 @@ A job-search app that runs in your own Claude account: it finds roles, screens t
 
 <br>
 
-Not a prototype. I directed the build rather than hand-writing the code.
+I directed the build rather than hand-writing the code.
 
 | | |
 |---|---|
